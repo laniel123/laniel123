@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @laniel123
-- 👀 I’m interested in software development 
+- 👋 Hi, I’m @laniel123.
+- 👀 I’m interested in software development and data science. 
 - 🌱 I’m currently learning Python, C++, Pandas and R. 
 
 <!---
