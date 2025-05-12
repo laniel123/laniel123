@@ -4,7 +4,7 @@ Hello, my name is Daniel Larson. I am a Statistics & Data Science student at UCS
 
 ---
 
- ### What I’ve Built
+ ## What I’ve Built
  
 - Anti-DUI: A BAC prediction tool powered by regression modeling and Streamlit, aimed at helping students make safer decisions around alcohol. Finalist in UCSB’s Project Showcase.
 - Spotify Playlist Analyzer: A full-stack web app that creatively assesses emotional tone based on Spotify playlist content — integrating Python, Flask, and the Spotify Web API.
@@ -12,7 +12,7 @@ Hello, my name is Daniel Larson. I am a Statistics & Data Science student at UCS
 
 ---
 
-### What I’m Learning
+## What I’m Learning
 
 Currently diving deeper into:
 - Regression and modeling 
@@ -21,7 +21,7 @@ Currently diving deeper into:
 - SQL querying and relational data analysis
 
 ---
-### My Skills 
+### Skills 
 
 - Languages: Python, R, SQL, C++
 - Libraries: pandas, NumPy, matplotlib, scikit-learn
