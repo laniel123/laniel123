@@ -8,7 +8,7 @@ Hello, my name is Daniel Larson. I am a Statistics & Data Science student at UCS
  
 - Anti-DUI: A BAC prediction tool powered by regression modeling and Streamlit, aimed at helping students make safer decisions around alcohol. Finalist in UCSB’s Project Showcase.
 - Spotify Playlist Analyzer: A full-stack web app that creatively assesses emotional tone based on Spotify playlist content — integrating Python, Flask, and the Spotify Web API.
-- GUI Automation Toolkit: Built a custom link scraper using PyAutoGUI for platforms with limited automation access, reinforcing my skills in asynchronous scripting and UI simulation.
+- GUI Automation Toolkit: Built a custom link scraper using PyAutoGUI for platforms with limited automation access
 
 ---
 
