@@ -10,6 +10,7 @@ Hello, my name is Daniel Larson. I am a Statistics & Data Science student at UCS
 - Spotify Playlist Analyzer: A full-stack web app that creatively assesses emotional tone based on Spotify playlist content — integrating Python, Flask, and the Spotify Web API.
 - GUI Automation Toolkit: Built a custom link scraper using PyAutoGUI for platforms with limited automation access
 
+---
 
 ## What I’m Learning
 
