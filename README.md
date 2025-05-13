@@ -15,6 +15,7 @@ Hello, my name is Daniel Larson. I am a Statistics & Data Science student at UCS
 ## What I’m Learning
 
 Currently diving deeper into:
+- Improving my skills in the languages I know
 - Regression and modeling 
 - Optimal data visualization practices
 - API integration and full-stack development
