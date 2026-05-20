@@ -6,7 +6,7 @@ Hello, my name is Daniel Larson. I am a Statistics & Data Science student at UCS
 
  ## My Projects
 
-- SpiceRAck: A web-based application that takes the user imputes spices in their pantry and outputs recommended recipes accordingly. 
+- SpiceRack: A web-based application that takes the user's spices in their pantry and outputs recommended recipes accordingly. 
 - Anti-DUI: A BAC prediction tool powered by regression modeling and Streamlit, aimed at helping students make safer decisions around alcohol— finalist in UCSB’s Project Showcase.
 - Mlb_Injury_Report: A pipeline that scrapes the MLB website for player statistics and uses a trained ML model to predict a player's likelihood of injury based on previous game data. 
 - Spotify Playlist Analyzer: A full-stack web app that creatively assesses emotional tone based on Spotify playlist content — integrating Python, Flask, and the Spotify Web API.
